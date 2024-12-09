@@ -156,6 +156,17 @@ body {
 
 }
 
+.technologies-0 {
+
+    text-align: center;
+    color: #4154F1;
+    font-weight: 500;
+    font-family: "Nunito", sans-serif;
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 5px 0px;
+}
+
+
 .technologies {
     text-align: center;
     color: #4154F1;
