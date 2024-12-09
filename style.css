@@ -1312,13 +1312,24 @@ textarea:focus-within {
         padding: 0px 0px 5px 0px;
     }
 
+    .technologies-0 {
+
+        text-align: center;
+        color: #4154F1;
+        font-weight: 500;
+        font-family: "Nunito", sans-serif;
+        margin: 200px 0px 0px 0px;
+        padding: 0px 0px 5px 0px;
+    }
+
+
     .technologies2 {
 
         text-align: center;
         color: #4154F1;
         font-weight: 500;
         font-family: "Nunito", sans-serif;
-        margin: 550px 0px 0px 0px;
+        margin: 500px 0px 0px 0px;
         padding: 0px 0px 5px 0px;
     }
 
@@ -1327,7 +1338,7 @@ textarea:focus-within {
         color: #4154F1;
         font-weight: 500;
         font-family: "Nunito", sans-serif;
-        margin: 300px 0px 0px 0px;
+        margin: 0px 0px 0px 0px;
         padding: 0px 0px 5px 0px;
     }
 
